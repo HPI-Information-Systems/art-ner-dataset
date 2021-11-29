@@ -7,11 +7,11 @@ Pending approval/license by the owner of the corpus.
 
 ## Models
 
+The model can be downloaded from [here](https://owncloud.hpi.de/s/UbefgKazzkn1uU9)
+
 ### SpaCy
 
 ### Flair
-
-The model can be downloaded from [final-model.pt](https://owncloud.hpi.de/s/4JQjOgXvX5Ggi3o) pwd:flair_ner
 
 In order to run the model with a sentence the script flair_model/RunNER.py can be executed
 
