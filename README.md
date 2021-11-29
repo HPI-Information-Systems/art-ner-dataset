@@ -7,7 +7,7 @@ Pending approval/license by the owner of the corpus.
 
 ## Models
 
-The model can be downloaded from [here](https://owncloud.hpi.de/s/UbefgKazzkn1uU9)
+The models can be downloaded from [here](https://owncloud.hpi.de/s/UbefgKazzkn1uU9)
 
 ### SpaCy
 
