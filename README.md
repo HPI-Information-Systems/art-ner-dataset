@@ -13,7 +13,7 @@ The models can be downloaded from [here](https://owncloud.hpi.de/s/UbefgKazzkn1u
 
 The Spacy pre-trained model 'en_core_web_md' was used a baseline for further training with domain related annotations. The version of Spacy is 3.3.0. Documentation related to the same is available [here](https://github.com/explosion/spacy-models/releases/tag/en_core_web_md-3.3.0). 
 
-To use the spacy model to annotate a file with texts (see example_file.csv), download the model folder and run the script run_spacy.py as follows
+To use the spacy model to annotate a file with texts (see spacy_model/example_file.csv), download the model folder and run the script spacy_model/run_spacy.py as follows
 
 ```python run_spacy.py model_location example_file.csv```
 
