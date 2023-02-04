@@ -1,5 +1,5 @@
 # Generation of Training Data for Named Entity Recognition of Artworks
-Data and pre-trained models from the paper "Generation of Training Data for Named Entity Recognition of Artworks"
+Data and pre-trained models from the paper [Generation of Training Data for Named Entity Recognition of Artworks](http://www.semantic-web-journal.net/content/generation-training-data-named-entity-recognition-artworks) published in the Semantic Web Journal 2023 issue. 
 
 ## Data 
 
@@ -7,7 +7,8 @@ Pending approval/license by the owner of the corpus.
 
 ## Models
 
-The models can be downloaded from [here](https://owncloud.hpi.de/s/UbefgKazzkn1uU9)
+The models can be downloaded from [here](https://figshare.com/articles/software/NER_models/22010696)
+<!--- (https://owncloud.hpi.de/s/UbefgKazzkn1uU9) -->
 
 ### SpaCy
 
